@@ -1,0 +1,19 @@
+
+/*
+
+selector {
+  properties: value;
+  properties: value;
+}
+
+*/
+
+  body {
+    font-family: monospace, sans-serif;
+  }
+
+h1 {
+  font-size: 60px;
+  color: #DDA77B;
+  font-family: arial;
+}
