@@ -1,0 +1,18 @@
+/*
+
+selector {
+  properties: value;
+  properties: value;
+}
+
+*/
+
+  body {
+   font-family: 'Open Sans', sans-serif;
+  }
+
+h1 {
+  font-size: 60px;
+  color: #DDA77B;
+  font-family: 'Open Sans', sans-serif;
+}
