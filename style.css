@@ -9,10 +9,10 @@ selector {
 
   body {
     font-size: 30px;
-    font-family: arial;
+    font-family: sans-serif;
   }
 
 h1 {
   font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: sans-serif;
 }
